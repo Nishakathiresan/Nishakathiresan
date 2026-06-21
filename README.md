@@ -11,3 +11,8 @@
 - Android Application Developer
 - Done projects in Web development
 - Looking for UIUX Designer & Data Analyst opportunities
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,python,c,html,css,javascript,react,nodejs,mongodb,firebase,androidstudio,git,github,vscode,figma&perline=5" />
+</p>
